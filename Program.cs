@@ -1,22 +1,22 @@
 ﻿using SemanticKernel.Examples;
 
-Console.WriteLine("Example 1: Rhyming day check");
-await Example1.RunAsync();
+Console.WriteLine("Rhyming Day Check");
+await RhymingDayCheck.RunAsync();
 
-Console.WriteLine("\nExample 2: Text Summarization");
-await Example2.RunAsync();
+Console.WriteLine("\nText Summarization");
+await TextSummarization.RunAsync();
 
-Console.WriteLine("\nExample 3: Number Analysis");
-await Example3.RunAsync();
+Console.WriteLine("\nNumber Analysis");
+await NumberAnalysis.RunAsync();
 
-Console.WriteLine("\nExample 4: Number Analysis & Prediction");
-await Example4.RunAsync();
+Console.WriteLine("\nNumber Analysis & Prediction");
+await NumberAnalysisAndPrediction.RunAsync();
 
-Console.WriteLine("\nExample 5: Sentiment Analysis (JSON)");
-await Example5.RunAsync();
+Console.WriteLine("\nSentiment Analysis (JSON)");
+await SentimentAnalysis.RunAsync();
 
-Console.WriteLine("\nExample 6: Task Planning");
-await Example6.RunAsync();
+Console.WriteLine("\nTask Planning");
+await TaskPlanning.RunAsync();
 
-Console.WriteLine("\nExample 7: Code Review");
-await Example7.RunAsync();
+Console.WriteLine("\nCode Review");
+await CodeReview.RunAsync();

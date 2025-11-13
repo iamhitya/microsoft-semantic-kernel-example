@@ -54,25 +54,25 @@ The app runs seven examples sequentially.
 
 ## Examples
 
-- Example 1: Rhyming Day Check
+- Rhyming Day Check (`RhymingDayCheck.cs`, class `RhymingDayCheck`)
   - Demonstrates chat completion with a system prompt ("always answer in rhymes" and context that today is Thursday).
 
-- Example 2: Text Summarization
+- Text Summarization (`TextSummarization.cs`, class `TextSummarization`)
   - Summarizes a short blurb about Semantic Kernel.
 
-- Example 3: Number Analysis
+- Number Analysis (`NumberAnalysis.cs`, class `NumberAnalysis`)
   - Analyzes a list of numbers to find patterns and averages.
 
-- Example 4: Number Analysis & Prediction
+- Number Analysis & Prediction (`NumberAnalysisAndPrediction.cs`, class `NumberAnalysisAndPrediction`)
   - Extends the analysis with a simple next-value prediction.
 
-- Example 5: Sentiment Analysis (JSON)
+- Sentiment Analysis (JSON) (`SentimentAnalysis.cs`, class `SentimentAnalysis`)
   - Produces strict JSON with sentiment, confidence, and key phrases for a short user review.
 
-- Example 6: Task Planning
+- Task Planning (`TaskPlanning.cs`, class `TaskPlanning`)
   - Generates a concise, prioritized plan for a set of tasks with short rationale.
 
-- Example 7: Code Review
+- Code Review (`CodeReview.cs`, class `CodeReview`)
   - Provides a brief, actionable review of a small code snippet.
 
 ## Dependencies

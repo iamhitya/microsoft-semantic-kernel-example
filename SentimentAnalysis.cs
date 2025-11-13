@@ -4,7 +4,7 @@ using Microsoft.SemanticKernel.Connectors.OpenAI;
 
 namespace SemanticKernel.Examples;
 
-public static class Example5
+public static class SentimentAnalysis
 {
     public static async Task RunAsync()
     {

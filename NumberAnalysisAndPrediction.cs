@@ -1,10 +1,10 @@
-﻿using Microsoft.SemanticKernel;
+using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 
 namespace SemanticKernel.Examples;
 
-public static class Example4
+public static class NumberAnalysisAndPrediction
 {
     public static async Task RunAsync()
     {

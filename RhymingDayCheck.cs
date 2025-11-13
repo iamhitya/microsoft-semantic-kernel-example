@@ -1,9 +1,9 @@
-﻿using Microsoft.SemanticKernel.ChatCompletion;
+using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 
 namespace SemanticKernel.Examples;
 
-public static class Example1
+public static class RhymingDayCheck
 {
     public static async Task RunAsync()
     {
